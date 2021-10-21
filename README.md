@@ -1,4 +1,3 @@
-@@ -1,2 +1,38 @@ 
 # SonOfAMono
 The missing .Net Winforms IDE for Linux.
 Please note. This is not necessarily the final name of the project. In fact .. EVERYTHING will change about project.
