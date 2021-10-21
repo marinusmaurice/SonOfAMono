@@ -32,7 +32,7 @@ GPL takes one's freedom of choice from you. Read the licence PROPERLY if you don
 Also. Licences like the above are more harmful for those who are unemployed, possibly broke and need to make a living using and (possibly) writing software that could depend on free and/or open source software. If you are unemployed, broke, no one wants to hire you.. then you will know EXACTLY what I mean.
 For anything else Im sure sure GPL maybe has some use.
 
-# Ok.. Im boring.. SHOW SOME PICS MAN!!!!
+# Ok..Now we done with the boring stuff.. LETS SEE SOME PICS OF THE IDE ON LINUX!!!!
 Sure. These are early EARLY day pics. Its still rife with bugs everywhere. But as soon as things are even compilable.. I will upload source. PROMISE!!
 
 ![pic00](https://user-images.githubusercontent.com/75542535/138273325-618f5ddf-0b6d-4dd0-8bde-b808854f5e92.png)
