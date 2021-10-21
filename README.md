@@ -21,13 +21,13 @@ Me. (I have a TRUSTED second in charge).  The higher probability of success of a
 
 # IMPORTANT
 -License. Free for:
-    all education facilities 
-    broke developers 
-    all who make meaningful contributions to the project in any way shape or form. (note.. fixing a spelling error doesnt necessarily count as meaningful .. unless its in the lexer/parser.. cmon.. you can figure it out).
--Business. Price we'll decide later. Dont worry. Price is whatever you can afford (may be subject to change).
+    (A) all education facilities, 
+    (B) broke developers 
+    (C) all who make meaningful contributions to the project in any way shape or form. (note.. fixing a spelling error doesnt necessarily count as meaningful .. unless its in the lexer/parser.. cmon.. you can figure it out).
+-Businesses. Price we'll decide later. Dont worry. Price is whatever you can afford (may be subject to change).
 
 # Why not GPL etc?
-GPL takes one's freedom of choice from you. Read the licence PROPERLY if you don't believe me. 
+GPL takes one's freedom of choice from you. Read the licence PROPERLY if you don't believe me. If you still struggling to understand, view the license from the viewpoint of someone who has nothing and needs to survive.
 Also. Licences like the above are more harmful for those who are unemployed, possibly broke and need to make a living using and (possibly) writing software that could depend on free and/or open source software. If you are unemployed, broke, no one wants to hire you.. then you will know EXACTLY what I mean.
 For anything else Im sure sure GPL maybe has some use.
 
